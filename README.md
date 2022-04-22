@@ -1,5 +1,7 @@
 ## Hello there! 👋🏽
 
+My name is Raafi and I am an aspiring 
+
 Welcome to my life as a business analytics and finance student in Boston, MA. I am a joker/trader by day and coder/gamer by night. I have recently updated my GitHub profile in search of collaboration with fellow individuals/organizations to expand my knowledge of this huge field and further my passion into business analytics/intelligence. 
 
 ### My top skillsets
@@ -12,6 +14,8 @@ Welcome to my life as a business analytics and finance student in Boston, MA. I 
 Feel free to connect with me on <a href="https://www.github.com/raafij/">GitHub</a> or <a href="https://www.linkedin.com/in/raafijahangir/">LinkedIn</a> to learn more about me. I'd be more than happy to have a conversation!
 
 [![Raafi's GitHub stats 📈](https://github-readme-stats.vercel.app/api?username=raafij)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Visits Badge](https://badges.pufler.dev/visits/raafij/README.md)](https://badges.pufler.dev)
 
 <!--
 **raafij/raafij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
