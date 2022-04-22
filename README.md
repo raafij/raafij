@@ -15,7 +15,7 @@ Feel free to connect with me on <a href="https://www.github.com/raafij/">GitHub<
 
 [![Raafi's GitHub stats 📈](https://github-readme-stats.vercel.app/api?username=raafij)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Visits Badge](https://badges.pufler.dev/visits/raafij/README.md)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 
 <!--
 **raafij/raafij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
