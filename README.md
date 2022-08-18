@@ -1,8 +1,8 @@
 ## Hello there! 👋🏽
 
-My name is Raafi and I am an aspiring 
+My name is Raafi and I am an aspiring financial data analyst.
 
-Welcome to my life as a business analytics and finance student in Boston, MA. I am a joker/trader by day and coder/gamer by night. I have recently updated my GitHub profile in search of collaboration with fellow individuals/organizations to expand my knowledge of this huge field and further my passion into business analytics/intelligence. 
+Welcome to my life as a business analytics and finance graduate student in Boston, MA. I am a joker/trader by day and coder/gamer by night. I have recently updated my GitHub profile in search of collaboration with fellow individuals/organizations to expand my knowledge of this huge field and further my passion into business analytics/intelligence. 
 
 ### My top skillsets
 
